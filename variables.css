@@ -1,0 +1,10 @@
+:root {
+  --ff-body: sans-serif;
+  --ff-title: serif;
+
+  --clr-primary: #2dc2bd;
+  --clr-secondary: #c3c3c3;
+  --clr-accent: #12664f;
+  --clr-light: #eef8ff;
+  --clr-dark: #012715;
+}
